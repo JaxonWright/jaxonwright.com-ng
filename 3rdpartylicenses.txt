@@ -99,6 +99,8 @@ THE SOFTWARE.
 
 @angular/material/form-field
 
+@angular/material/icon
+
 @angular/material/list
 
 @angular/material/snack-bar
@@ -229,6 +231,9 @@ trademarks does not indicate endorsement of the trademark holder by Font
 Awesome, nor vice versa. **Please do not use brand logos for any purpose except
 to represent the company, product, or service to which they refer.**
 
+
+angular-last-fm-scrobbles
+GPL-3.0-only
 
 core-js
 MIT
